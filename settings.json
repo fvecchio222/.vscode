@@ -166,5 +166,6 @@
     "streambuf": "cpp",
     "cinttypes": "cpp",
     "typeinfo": "cpp"
-  }
+  },
+  "postman.settings.dotenv-detection-notification-visibility": false
 }

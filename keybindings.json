@@ -1,0 +1,7 @@
+// Inserire in questo file i tasti di scelta rapida per eseguire l'override di quelli predefiniti
+[
+  {
+    "key": "ctrl+shift+alt+z",
+    "command": "workbench.action.terminal.clear"
+  }
+]
